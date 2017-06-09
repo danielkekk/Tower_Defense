@@ -117,6 +117,7 @@ void mouse_control(int button, int state, int x, int y){
 				}
 				break;
 			}
+			
 			tower_placeing = false;
 		}
 		else{
